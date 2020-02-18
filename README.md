@@ -1,18 +1,9 @@
 # PROS V5 Template
-This is a template repository for the PROS V5 Environment.
+Tualatin high school official vex robotics code for tower takeover (2019-2020)
+Download it here for PROS: 
+[PROS DOWNLOAD](https://github.com/IrvingtonRobotics/pros-v5-template).
 
-To use this template, click the green "Use this template" button on the
-far right, to the left of "Clone or download" near the top of
-[the repository page](https://github.com/IrvingtonRobotics/pros-v5-template).
-
-Then set a new name and deal with other details on the page until you
-are done and hit the "Create repository from template" button.
-
-If you're still confused, please consult
-https://help.github.com/en/articles/creating-a-repository-from-a-template.
-
-After copying the template:
-
+Fully suited with autonomous, op-control, and advanced driver features
 1. follow along with the TODO directions by searching for `%TODO` and
 making edits (In Atom, press <kbd>ctrl</kbd> + <kbd>shift</kbd> +
 <kbd>F</kbd> to search in project).
