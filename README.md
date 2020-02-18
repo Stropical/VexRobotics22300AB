@@ -1,4 +1,4 @@
-# PROS V5 Template
+# TuHS Tower Takeover Code
 Tualatin high school official vex robotics code for tower takeover (2019-2020)
 Download it here for PROS: 
 [PROS DOWNLOAD](https://github.com/IrvingtonRobotics/pros-v5-template).
