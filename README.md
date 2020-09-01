@@ -1,4 +1,4 @@
-# Cerebus Drivetrain and
+# Cerebus Drivetrain and Ramp Controller
 
 This project contains the VEX Code for the Tualatin Robotics Team.
 
